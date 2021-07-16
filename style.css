@@ -1,0 +1,68 @@
+body{
+    font-family: 'Zen Loop', cursive;    
+    background-color: turquoise;
+}
+.header_div{
+    background-color: yellow;
+    color: orange;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background-color: orchid;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background-color: purple;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px coral;
+    font-size: 37px;
+}
+#camera, #result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+
+}
+#button_captureImage, #button_identifyImage{
+    font-size: 30px;
+}
+#image_identification{
+    font-size: 30px;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: antiquewhite;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 3;
+}
+#label_develop{
+    font-size: 20px;
+}
